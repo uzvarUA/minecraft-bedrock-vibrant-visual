@@ -1,0 +1,7 @@
+# Дозволити DuckDuckGo індексувати сайт
+User-agent: DuckDuckBot
+Disallow:
+
+# Заборонити іншим ботам
+User-agent: *
+Disallow: /
